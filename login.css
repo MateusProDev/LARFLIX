@@ -1,0 +1,38 @@
+body {
+background-image: linear-gradient(to left, #a53ca8,#410147);
+
+}
+
+.login {
+  border: none;
+  position: absolute;
+  text-align: center;
+  padding: 30px;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  font-size: 22px;
+
+}
+
+.login input {
+  font-size: 16px;
+  padding: 4px;
+}
+
+.login button {
+  font-size: 16px;
+  width: 100%;
+  padding: 3px;
+  background-color: #a53ca8;
+  color: white;
+  border-radius: 20px;
+  outline: none;
+} 
+
+.login a {
+  color: white;
+}

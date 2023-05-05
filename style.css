@@ -17,13 +17,12 @@ body {
 
 .menu li {
     display: flex;
-
 }
 
 .menu a {
-    font-size: 12px;
+    font-size: 35px;
     color: #dadada;
-    margin-top: 27px;
+    margin: 30px 0 20px 0px;
 }
 
 .descricao {
@@ -44,7 +43,8 @@ body {
 
 .logo a { 
     text-decoration: none;
-    font-size: 20px;
+    font-size: 50px;
+    margin-left: 20px;
 }
 
 .logo a:hover { 

@@ -115,12 +115,10 @@ main  {
 }
 
 iframe {
-  width: 100%;
-  height: 520px;
-  display: block;
+  width: 10px auto;
+  height: 10px auto;
   margin: auto;
-  border: 2px solid black;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  margin-bottom: 50px;
 }
 
 
